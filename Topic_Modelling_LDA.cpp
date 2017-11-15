@@ -1,4 +1,7 @@
-/*-------property of the half blood prince-----*/
+/**
+ * @project the project implements Topic Modelling using Gibbs sampler
+ * @author SHAIKHALVEE
+ */
 
 #include <bits/stdc++.h>
 #include <dirent.h>
